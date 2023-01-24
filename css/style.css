@@ -29,12 +29,12 @@ img{
 div{
     min-height: 125px;
     padding: 20px;
-    border: solid 3px #ffffff;
 }
 .introduction{
     border-radius: 15px;
     margin-top: 15px;
     line-height: 200%;
+    border: solid 3px #ffffff;
 }
 .red{
     background-color: #ff0000;
