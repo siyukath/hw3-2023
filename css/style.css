@@ -66,11 +66,8 @@ div{
     background-color:  #008500;
     text-align: left;
     margin-right: 50px;
-    border-right: solid 5px;
-    border-top: solid 2px;
-    margin-left: 50px;
     border-bottom: solid 2px #ffffff;
-    border-right: 5px #ffffff;
+    border-right: solid 5px #ffffff;
 }
 footer{
     background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
